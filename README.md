@@ -24,6 +24,6 @@ A detailed Jupyter Notebook is included in the repository.
 Contains all analysis steps, from data preprocessing to advanced visualizations.
 The final section provides key conclusions derived from the analysis.
 
-##5.Conclusions
+## 5.Conclusions
 
 Summarizes actionable insights, including trends and differences in mental health between demographics and student statuses.
