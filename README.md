@@ -6,7 +6,7 @@ Features general health ratings, PHQ-9 depression scores, GAD-7 anxiety scores, 
 Contains data on diagnoses, therapy usage, and medical conditions.
 Includes attributes like student status (full-time or international), sex, and race.
 
-2.Data Balancing
+## 2.Data Balancing
 
 The dataset had a 2:1 female-to-male ratio.
 Data balancing techniques were applied to ensure fair representation in visualizations and insights.
