@@ -1,4 +1,6 @@
-1. Dataset Overview
+# Mental Health Among Students Across the USA
+
+## 1. Dataset Overview
 
 Includes demographic, health, and mental health information from students across 48 U.S. states.
 Covers data for students born between 1971 and 2003.
@@ -11,17 +13,17 @@ Includes attributes like student status (full-time or international), sex, and r
 The dataset had a 2:1 female-to-male ratio.
 Data balancing techniques were applied to ensure fair representation in visualizations and insights.
 
-3.Analysis Details
+## 3.Analysis Details
 
 Visualizations and statistical summaries were generated to explore trends and distributions in mental health indicators.
 Specific insights into health ratings by demographics, student status, and mental health conditions were highlighted.
 
-4.Jupyter Notebook
+## 4.Jupyter Notebook
 
 A detailed Jupyter Notebook is included in the repository.
 Contains all analysis steps, from data preprocessing to advanced visualizations.
 The final section provides key conclusions derived from the analysis.
 
-5.Conclusions
+##5.Conclusions
 
 Summarizes actionable insights, including trends and differences in mental health between demographics and student statuses.
